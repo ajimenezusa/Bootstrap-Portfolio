@@ -1,0 +1,43 @@
+
+@import url('https://fonts.googleapis.com/css?family=Barlow+Condensed');
+
+  
+.alex {
+  margin: 30px;
+  }
+  .one{
+    margin: 46px;
+    background-color: lightblue;
+}
+.page-header{
+  text-align: center;
+  background-repeat: darkgrey;
+}
+body{
+  background-color: lightgray;
+}
+.text-success{
+  text-align: center;
+}
+.jimenez {
+  text-align: center; ;
+}
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: blue;
+   color: white;
+   text-align: center;
+ }
+
+  .carousel-inner img {
+      width: 50%;
+      height: 50%;
+  }
+  .image {
+    width: 200px;
+    height: 200px;
+
+  }
